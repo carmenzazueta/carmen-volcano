@@ -1,0 +1,57 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="L$M!0XKbCLA=kKKmJ?1t" x="68" y="9"><statement name="HANDLER"><block type="controls_repeat_ext" id="Mj/0Mux~)t6UH~]=ugpx"><comment pinned="true" h="80" w="160">Magma is rising through a vent. 
+</comment><value name="TIMES"><shadow type="math_whole_number" id=")12t.6:T`3~hmM{a}da{"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="fUuZD#w+l3I*%HfXA+3b"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="c{drw=[/QO[k(5|lPcA)"><value name="pause"><shadow type="timePicker" id="w39w5ZeEf3Il0YROVl{z"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="vT4`ZpuR)s*l0Q(R:]p:"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id=",3[8lxu+4o~!9PzrpU:p"><value name="pause"><shadow type="timePicker" id="(sEQDk^OKnt2aN}^AYxo"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="Ma.VWUdIl;1G2v`f[73@"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="G1gDo?!Y)rb5N#0a-sXU"><value name="pause"><shadow type="timePicker" id="?9@xN5$`6uQ4iAMbZ|)d"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="#qg^RE%o4{x=.E-(C1GG"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="Uc0I`aeCDQp4qPNG1|v1"><value name="pause"><shadow type="timePicker" id="[_3)LNReb@?MV$rx1}.u"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="|wv|UY?g(]Bhj-|8R8,h"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="8`M)@?hTzVst.!s|g-Kq"><value name="pause"><shadow type="timePicker" id="M=9w_}sdcxx#aV6R~IpF"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="controls_repeat_ext" id="qAe:}up%eB@,JAdC0U@$"><comment pinned="true" h="80" w="160">Lava is erupting.
+</comment><value name="TIMES"><shadow type="math_whole_number" id="Wej[Wrr:;==-NzVinnF8"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="POnH^(dXObPw^lo3ikUc"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="4GMF^]B`{BU7j73y7sY~"><value name="pause"><shadow type="timePicker" id="[P17K|@o7.(D,am{fSOZ"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="}c@8^SG3@Re@^X0^fJ%="><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="MF)Xf0c}dkypz74U{|.{"><value name="pause"><shadow type="timePicker" id="V9tu2TC,l!QSmX*V*o5M"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="b$Vez(A:Qs?EHC!)G/#r"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="uqs/xCEabuVhZfA.v79$"><value name="pause"><shadow type="timePicker" id="q!{#Ls52=G~Pmpb~a!H8"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="R.VX#fz~%:g|l/-UyrRE"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="S/aK!7.ECi@LeDCN2mFf"><value name="pause"><shadow type="timePicker" id="Nod!bCV/0Sad#63=!Y}("><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
